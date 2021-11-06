@@ -1,0 +1,35 @@
+.company {
+    height: 0;
+    width: 0;
+    overflow: hidden;
+}
+
+.bg-twitter {
+    background-color: #00acee;
+}
+
+.bg-linkedin {
+    background-color: #0e76a8;
+}
+
+.bg-facebook {
+    background-color: #3b5998;
+}
+
+.bg-google {
+    background-color: #ea4335;
+}
+
+.bg-justauthme {
+    background-color: #3498db;
+}
+
+.card-columns-portfolio {
+    column-count: 3 !important;
+}
+
+@media (max-width: 767px) {
+    .card-columns-portfolio {
+        column-count: 1 !important;
+    }
+}

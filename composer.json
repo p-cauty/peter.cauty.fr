@@ -1,0 +1,12 @@
+{
+    "name": "p_cauty/peter.cauty.fr",
+    "authors": [
+        {
+            "name": "Peter Cauty",
+            "email": "peter@cauty.fr"
+        }
+    ],
+  "require": {
+    "ext-curl": "*"
+  }
+}
